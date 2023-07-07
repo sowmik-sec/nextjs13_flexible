@@ -75,7 +75,7 @@ const Footer = () => {
         <p>@2023 Flexible. Al rights reserved</p>
         <p className="text-gray">
           <span className="text-black font-semibold"> 2,234</span> projects
-          submitted
+          submitted // cmt
         </p>
       </div>
     </footer>
